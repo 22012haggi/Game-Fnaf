@@ -3,4 +3,7 @@ body {
     text-align: center;
     flex-wrap: wrap;
 }
-
+footer {
+    background-color: green;
+    border: 3px solid yellow;
+}
